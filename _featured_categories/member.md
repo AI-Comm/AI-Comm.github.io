@@ -17,9 +17,9 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 
 
 <!-- ## Getting started -->
-* [Ph.D. students]{:.heading.flip-title}<!-- --- How to install and run Hydejack.-->
-* [M.S. students]{:.heading.flip-title}<!-- --- You can skip this if you haven't used Hydejack before.-->
-* [Undergraduate interns]{:.heading.flip-title}<!-- --- Once Jekyll is running you can start editing your config file.-->
+* [Ph.D. students]{:.heading.flip-title} --- How to install and run Hydejack.
+* [M.S. students]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
+* [Undergraduate interns]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
 
 <!-- ## Using Hydejack
