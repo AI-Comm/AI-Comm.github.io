@@ -1,51 +1,288 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://localhost:4000/about/</loc>
-<lastmod>2024-01-03T00:04:48+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/forms-by-example/</loc>
-<lastmod>2022-02-07T13:23:49+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-<lastmod>2024-01-03T04:40:43+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/posts/</loc>
-<lastmod>2024-01-03T00:04:49+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/LICENSE/</loc>
-<lastmod>2022-02-07T13:23:49+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/NOTICE/</loc>
-<lastmod>2022-02-07T13:23:49+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/Apache-2.0/</loc>
-<lastmod>2022-02-07T13:23:49+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/GPL-3.0/</loc>
-<lastmod>2022-02-07T13:23:49+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/MIT/</loc>
-<lastmod>2022-02-07T13:23:49+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/PRO/</loc>
-<lastmod>2022-02-07T13:23:49+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/W3C-20150513/</loc>
-<lastmod>2022-02-07T13:23:49+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/licenses/</loc>
-<lastmod>2022-02-07T13:23:49+09:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+        <loc>/404.html</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/CHANGELOG/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/MS/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/PhD/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/about/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/advanced/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/basics/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/build/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/assets/bower_components/katex/docs/cli.md.template</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/config/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/forms-by-example/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/assets/css/hydejack-9.1.6.css</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/install/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/migration/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/posts/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/scripts/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/assets/site.webmanifest</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/sitemap.xml</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/undergraduate/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/upgrade/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/member/writing/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/download/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/docs/7.5.0/forms-by-example/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/docs/7.5.1/forms-by-example/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/redirects.json</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/LICENSE/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/NOTICE/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/licenses/Apache-2.0/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/licenses/GPL-3.0/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/licenses/MIT/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/licenses/PRO/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/licenses/W3C-20150513/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/licenses/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/feed.xml</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/robots.txt</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+
+    
+    <url>
+        <loc>/home/2020-07-03-introducing-hydejack-9/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/home/2018-06-01-example-content-iii/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/home/2017-11-23-example-content-ii/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/home/2012-02-07-example-content/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+
 </urlset>
