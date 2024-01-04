@@ -10,5 +10,3 @@ last_modified_at: 2018-08-03
 cover: true
 ---
 
-<!-- <meta http-equiv="refresh" content="0; URL=../sitemap/" /> -->
-
