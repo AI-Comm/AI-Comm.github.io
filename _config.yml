@@ -141,8 +141,8 @@ hydejack:
   hide_last_modified:  false
 
   dark_mode:
-    always:            false
-    dynamic:           true
+    always:            true
+    dynamic:           false
     sunrise:           6
     sunset:            18
     icon:              true
