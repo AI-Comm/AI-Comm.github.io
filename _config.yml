@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://ai-comm.github.io
+# url:                   https://ai-comm.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -141,8 +141,8 @@ hydejack:
   hide_last_modified:  false
 
   dark_mode:
-    always:            false
-    dynamic:           true
+    always:            true
+    dynamic:           false
     sunrise:           6
     sunset:            18
     icon:              true
