@@ -33,7 +33,8 @@ templates:             Templates (for web app)
 present:               present
 toc:                   Table of Contents
 note:                  Note
-description:           Description
+# description:           Description
+description:           at Pukyong National University (PKNU)
 search:                Search
 search_placeholder:    Type something…
 

@@ -16,40 +16,37 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 {:.note} -->
 
 
-## Getting started
-<!-- * [Ph.D. students]{:.heading.flip-title}--- How to install and run Hydejack. -->
-<!-- ------------------- -->
-<!-- * [M.S. students]{:.heading.flip-title}--- You can skip this if you haven't used Hydejack before. -->
-<!-- ------------------- -->
-<!-- * [Undergraduate interns]{:.heading.flip-title}--- Once Jekyll is running you can start editing your config file. -->
-<!-- ------------------- -->
-<!-- {:.related-posts.faded} -->
+## Sangseok Yun
 
-<!-- ## Using Hydejack
-* [Basics]{:.heading.flip-title} --- How to add different types of content.
-* [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
-* [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Build]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
-{:.related-posts.faded}
+![title](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/330px-Font_Awesome_5_brands_github.svg.png){: width="200" height="200"}
 
-## Other
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-{:.related-posts.faded} -->
+Assistant Professor
 
-<!-- [Ph.D. students]: PhD -->
-<!-- [M.S. students]: MS -->
-<!-- [Undergraduate interns]: undergraduate -->
-<!-- [install]: install.md
-[upgrade]: upgrade.md
-[config]: config.md
-[basics]: basics.md
-[writing]: writing.md
-[scripts]: scripts.md
-[build]: build.md
-[advanced]: advanced.md
-[LICENSE]: ../LICENSE.md
-[NOTICE]: ../NOTICE.md
-[CHANGELOG]: ../CHANGELOG.md -->
+Department of Electronics and Communications Engineering
+
+Pukyong National University (PKNU)
+
+Email: ssyun at pknu.ac.kr 
+
+
+## Bio
+
+Sangseok Yun received the Ph.D. degree in electrical engineering from the Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2018. In 2018, he was a Post-Doctoral Fellow at Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, and visited Queen’s University, Kingston, Canada to conduct collaborative research. In 2019 and 2020, he was a Post-Doctoral Fellow at Queen’s University, Kingston, Canada. Since 2021, he has been with Pukyong National University, Busan, South Korea, where he is currently an Assistant Professor with the Department of Electronics and Communications Engineering. His research interests include theories and applications of deep learning, machine learning, wireless artificial intelligence, wireless communications, and physical layer security.
+
+
+## Education
+
+* Ph.D. Electrical Engineering, Korea Advanced Institute of Science and Technology, Korea, 2018. 08.
+  - Thesis: "A study on artificial noise assisted physical layer security"
+  - Advisor: Professor Jeongseok Ha
+* M.S. Electrical Engineering, Pusan National University, Korea, 2012. 02.
+* B.S. Electrical Engineering, Pusan National University, Korea, 2010. 08.
+
+
+## Experience
+
+* 2021.04. - Present &nbsp;&nbsp; Assistant Professor, Pukyong National University, Korea
+* 2019.09. - 2021.03. &nbsp; Postdoctoral Fellow, Queen's University, Kingston, Canada
+  - Supervisor: Professor Il-Min Kim
+* 2018.09. - 2019.08. &nbsp; Postdoctoral Fellow, Korea Advanced Institute of Science and Technology, Korea
+  - Supervisor: Professor Jeongseok Ha

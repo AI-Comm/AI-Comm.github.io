@@ -23,7 +23,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 <!-- {:.related-posts.faded} -->
 
 ## Finished projects
-* "Development of low complexity distributed deep neural network (DNN) designing and low latency cooperative inference scheme," National Research Foundation of Korea (NRF) --- 2021.09 ~ 2024.02
+* "A study on distributed artificial neural network design for wireless IoT systems," Pukyong National University --- 2021.09 ~ 2024.02
 
 <!-- ## Using Hydejack
 * [Basics]{:.heading.flip-title} --- How to add different types of content.

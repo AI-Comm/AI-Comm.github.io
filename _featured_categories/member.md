@@ -17,10 +17,28 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 
 
 <!-- ## Getting started -->
-* [Ph.D. students]{:.heading.flip-title} --- How to install and run Hydejack.
-* [M.S. students]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Undergraduate interns]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
-{:.related-posts.faded}
+## Hyeondeok Cho --- 
+  - Ph.D. Course (Mar. 2024-)
+  - Researcher at Agency for Defense Development (ADD)
+  - M.S. Gwangju Institute of Science and Technology (GIST), 2015. 02.
+  - B.S. Pusan National University, 2012. 02.
+  - Research interests: Signal Processing
+
+<hr>
+
+## Youngtae Kim ---
+  - Integrated B.S./M.S. Course (Mar. 2023-)
+  - Research interests: Machine translation
+
+<hr>
+
+## Dana Kim ---
+  - Undergraduate intern (Mar. 2023-)
+  - Research interests: Object detection
+
+<hr>
+
+## [Alumni]
 
 <!-- ## Using Hydejack
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
@@ -36,9 +54,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded} -->
 
-[Ph.D. students]: PhD
-[M.S. students]: MS
-[Undergraduate interns]: undergraduate
+[Alumni]: Alumni
 <!-- [install]: install.md
 [upgrade]: upgrade.md
 [config]: config.md
