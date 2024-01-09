@@ -38,7 +38,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 
 <hr>
 
-## [Alumni]
+## [Alumni]{:.heading.flip-title}
 
 <!-- ## Using Hydejack
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
