@@ -11,6 +11,14 @@ hide_image: false
 cover: true
 ---
 
-Office: 2403, Nuri-Bldg. (A13), Pukyong National University, 45 Yongso-ro, Nam-gu, Busan, Korea
+<div align="center">
+<img src="assets/img/acl-high-resolution-logo-transparent.png" width="500px">
+</div>
 
-Lab: 2404, Nuri-Bldg. (A13), Pukyong National University, 45 Yongso-ro, Nam-gu, Busan, Korea
+&nbsp;
+
+Office: Rm. 2403, Nuri-Bldg. (A13), Pukyong National University, 45 Yongso-ro, Nam-gu, Busan, Korea<br>
+(will soon be relocated to Rm. 2316.)
+
+Lab: Rm. 2404, Nuri-Bldg. (A13), Pukyong National University, 45 Yongso-ro, Nam-gu, Busan, Korea<br>
+(will soon be relocated to Rm. 2332.)
