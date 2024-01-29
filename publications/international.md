@@ -18,14 +18,13 @@ sitemap: false
 
 - ### Accepted / To appear
 
-    - J. Park, **<U>S. Yun</U>**, J. Ha, “Downlink cell-free massive MIMO with pilot contamination,” *IEEE Transactions on Vehicular Technology*, accepted, 2023.
-
     - J. Park, **<U>S. Yun</U>**, J. Ha, “Secure power control for downlink cell-free massive MIMO with passive eavesdroppers,” *IEEE Transactions on Vehicular Technology*, accepted.
 
-    - Y. Shin, V. Palakonda, **<U>S. Yun</U>**, I.-M. Kim, S.-G. Kim, S.-M. Park, and J.-M. Kang, “RandMixAugment: A Novel Unified Technique for Region-and Image-Level Data Augmentations,” *IEEE Access*, accepted, 2023.
-
-
 - ### Published
+
+    1. J. Park, **<U>S. Yun</U>**, J. Ha, “Downlink cell-free massive MIMO with pilot contamination,” *IEEE Transactions on Vehicular Technology*, vol. 73, no. 1, pp. 1412–1417, Jan. 2024.
+
+    1. Y. Shin, V. Palakonda, **<U>S. Yun</U>**, I.-M. Kim, S.-G. Kim, S.-M. Park, and J.-M. Kang, “RandMixAugment: A Novel Unified Technique for Region-and Image-Level Data Augmentations,” *IEEE Access*, vol. 12, pp. 8187–8197, Jan. 2023.
 
     7.	A. Motamedi, **<U>S. Yun</U>**, Y. Ge, and I.-M. Kim, “Redundancy Management in Federated Learning for Fast Communication,” *IEEE Transactions on Communications*, vol. 71, no. 11, pp. 6332–6347, Nov., 2023.
 
