@@ -12,13 +12,15 @@ sitemap: false
 
 - ### Submitted / Under revision
 
-    - J. Park and **<U>S. Yun</U>**, "DPAN," *IEEE Transactions on Vehicular Technology*, under revision, 2024.
+    - J. Park and **<U>S. Yun</U>**, "Differential Privacy for Multiple Antenna Wireless Communication Assisted Federated Learning," *IEEE Transactions on Vehicular Technology*, under revision, 2024.
 
     - M. Sung, V. Palakonda, I.-M. Kim, **<U>S. Yun</U>**, and J.-M. Kang, "Memory-constraed split computing of neural networks based on deep compression," *IEEE Transactions on Vehicular Technology*, submitted, 2024.
 
 - ### Accepted / To appear
 
-    - J. Park, **<U>S. Yun</U>**, J. Ha, “Secure power control for downlink cell-free massive MIMO with passive eavesdroppers,” *IEEE Transactions on Vehicular Technology*, accepted.
+    - C.-W. Park, V. Palakonda, **<U>S. Yun</U>**, I.-M. Kim, and J.-M. Kang, "OCR-Diff: A Two-Stage Deep Learning Framework for Optical Character Recognition Using Diffusion Model in Industrial Internet-of-Things," *IEEE Internet of Things Journal*, accepted, 2024.
+
+    - J. Park, **<U>S. Yun</U>**, J. Ha, “Secure power control for downlink cell-free massive MIMO with passive eavesdroppers,” *IEEE Transactions on Vehicular Technology*, accepted, 2024.
 
 - ### Published
 
