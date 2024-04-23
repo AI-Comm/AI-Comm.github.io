@@ -17,8 +17,6 @@ cover: true
 
 &nbsp;
 
-Office: Rm. 2403, Nuri-Bldg. (A13), Pukyong National University, 45 Yongso-ro, Nam-gu, Busan, Korea<br>
-(will soon be relocated to Rm. 2316.)
+Office: Rm. 2316, Nuri-Bldg. (A13), Pukyong National University, 45 Yongso-ro, Nam-gu, Busan, Korea<br>
 
-Lab: Rm. 2404, Nuri-Bldg. (A13), Pukyong National University, 45 Yongso-ro, Nam-gu, Busan, Korea<br>
-(will soon be relocated to Rm. 2332.)
+Lab: Rm. 2332, Nuri-Bldg. (A13), Pukyong National University, 45 Yongso-ro, Nam-gu, Busan, Korea<br>
