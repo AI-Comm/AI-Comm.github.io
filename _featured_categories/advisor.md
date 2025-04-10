@@ -31,7 +31,7 @@ Email: ssyun at pknu.ac.kr
 
 ## Bio
 
-Sangseok Yun received the Ph.D. degree in electrical engineering from the Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2018. In 2018, he was a Post-Doctoral Fellow at Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, and visited Queen’s University, Kingston, Canada to conduct collaborative research. In 2019 and 2020, he was a Post-Doctoral Fellow at Queen’s University, Kingston, Canada. Since 2021, he has been with Pukyong National University, Busan, South Korea, where he is currently an Assistant Professor with the Department of Electronics and Communications Engineering. His research interests include theories and applications of deep learning, machine learning, wireless artificial intelligence, wireless communications, and physical layer security.
+Sangseok Yun received the Ph.D. degree in electrical engineering from the Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2018. In 2018, he was a Post-Doctoral Fellow at Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, and visited Queen’s University, Kingston, Canada to conduct collaborative research. In 2019 and 2020, he was a Post-Doctoral Fellow at Queen’s University, Kingston, Canada. Since 2021, he has been with Pukyong National University, Busan, South Korea, where he is currently an Associate Professor with the Department of Electronics and Communications Engineering. His research interests include theories and applications of deep learning, machine learning, wireless artificial intelligence, wireless communications, and physical layer security.
 
 
 ## Education

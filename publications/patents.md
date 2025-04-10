@@ -35,3 +35,14 @@ sitemap: false
 8. “오작동 단말이 존재하는 분산 네트워크에서 신뢰도 기반 분산 동기 방법 및 장치”, 등록번호 10-1818870, 등록일 Jan. 2018.
 
 9. “적응 필터의 수렴을 이용한 음향 반향 제거 장치 및 방법”, 등록번호 10-1083710, 등록일 Nov. 2011.
+
+
+## [Selected]{:.heading.flip-title}
+
+## [Domestic]{:.heading.flip-title}
+
+<!-- ## [Patents]{:.heading.flip-title} -->
+
+[Selected]: /research/
+[Domestic]: /publications/domestic
+<!-- [Patents]: /publications/patents -->

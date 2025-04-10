@@ -12,3 +12,14 @@ sitemap: false
 ## Domestic Journal papers
 
 ## Domestic Conference papers
+
+
+## [Selected]{:.heading.flip-title}
+
+<!-- ## [Domestic]{:.heading.flip-title} -->
+
+## [Patents]{:.heading.flip-title}
+
+[Selected]: /research/
+<!-- [Domestic]: /publications/domestic -->
+[Patents]: /publications/patents

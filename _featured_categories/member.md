@@ -26,12 +26,12 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
   - Researcher at Agency for Defense Development (ADD)
   - M.S. Gwangju Institute of Science and Technology (GIST), 2015. 02.
   - B.S. Pusan National University, 2012. 02.
-  - Research interests: Signal Processing
+  - Research interests: Sonar signal processing
 
 
 ### Dana Kim ---
   - Integrated B.S./M.S. Course (Mar. 2025--)
-  - Research interests: Secure machine learning
+  - Research interests: Private machine learning
 
 <hr style="margin: 0em 0; height: 1px; border: none; background-color: none;">
 
