@@ -17,14 +17,14 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 
 
 ## Ongoing projects
-* "Secure ICT: Privacy-Preserving Distributed AI Technologies," National Research Foundation of Korea (NRF) --- 2025.03 ~ 2028.02
+* "Secure ICT: Privacy-Preserving Distributed AI Technologies," Outstanding Young Scientist Grants (우수신진연구), National Research Foundation of Korea (NRF) --- 2025.03 ~ 2028.02
 <!-- * [Undergraduate interns]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file. -->
 <!-- {:.related-posts.faded} -->
 
 ## Finished projects
 * "Development of MEC(Mobile Edge Computing)-based blockchain service platform core technology," Information & Communications Technology Planning & Evaluation (IITP) --- 2022.04 ~ 2024.12
 
-* "Development of low complexity distributed deep neural network (DNN) designing and low latency cooperative inference scheme," National Research Foundation of Korea (NRF) --- 2021.09 ~ 2024.02
+* "Development of low complexity distributed deep neural network (DNN) designing and low latency cooperative inference scheme," Starting Grants (생애첫연구), National Research Foundation of Korea (NRF) --- 2021.09 ~ 2024.02
 
 * "Development of Novel Waveform Technologies for Overcoming RF Impairments and Constraints in the Sub-Terahertz Frequency Band," Electronics and Telecommunications Research Institute (ETRI) --- 2022.04 ~ 2022.12
 
