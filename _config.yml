@@ -51,6 +51,8 @@ author:
 menu:
   - title:             Home
     url:               /
+  - title:             News
+    url:               /news/
   - title:             Advisor
     url:               /advisor/
   - title:             Member

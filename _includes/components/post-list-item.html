@@ -11,9 +11,9 @@
 <!-- Modified version -->
 <li class="h4">
   {% if post.link %}
-  <a href="{{ post.link | relative_url }}" class="list-item"><span>{{ post.title }}</span></a>
+  <a href="{{ post.link | relative_url }}" class="list-item"><span>{{ post.title }}</span></a><br>
   {% else %}
-  <a href="{{ post.url | relative_url }}" class="list-item"><span>{{ post.title }}</span></a>
+  <a href="{{ post.url | relative_url }}" class="list-item"><span>{{ post.title }}</span></a><br>
   {% endif %}
   <time class="faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time>
 </li>

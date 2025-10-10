@@ -22,6 +22,8 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 <hr style="margin: 0em 0; height: 1px; border: none; background-color: rgba(255,255,255,.033);">
 <hr style="margin: -1em 0; height: 1px; border: none; background-color: none;">
 ### Hyeondeok Cho --- 
+![title](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/330px-Font_Awesome_5_brands_github.svg.png){: width="200" height="200"}
+
   - Ph.D. Course (Mar. 2024--)
   - Researcher at Agency for Defense Development (ADD)
   - M.S. Gwangju Institute of Science and Technology (GIST), 2015. 02.
@@ -30,6 +32,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 
 
 ### Dana Kim ---
+![title](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/330px-Font_Awesome_5_brands_github.svg.png){: width="200" height="200"}
   - Integrated B.S./M.S. Course (Mar. 2025--)
   - Research interests: Private machine learning
 
@@ -41,6 +44,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 <hr style="margin: -1em 0; height: 1px; border: none; background-color: none;">
 
 ### Youngtae Kim ---
+![title](/assets/img/YoungtaeKim.jpg){: width="200" height="200"}
   - Integrated B.S./M.S. Course (Mar. 2023--Feb. 2025)
   - Research interests: Language model, Machine translation
   - Current position: Ph. D. Course at Kyunghee University
