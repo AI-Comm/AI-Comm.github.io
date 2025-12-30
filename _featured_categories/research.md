@@ -11,24 +11,26 @@ sitemap: false
 
 ## Selected Journal papers
 
-- ### Submitted / Under revision
-    - J. Jeong and **<U>S. Yun</U>**, "Inter-Satellite Cooperation for Early Preamble Collision Detection in NTN IoT Random Access," *IEEE Transactions on Aerospace and Electronic Systems*, under revision, 2025.
-    - J.-M. Kang, **<U>S. Yun</U>**, and I.-M. Kim, "DeepQ-MIMO: A Deep-Learned Quantum MIMO System With Rydberg Atomic Receiver in IoT," *IEEE Internet of Things Journal*, under revision, 2025.
+- ### In preparation / Under revision
     <!-- - M. Sung, V. Palakonda, S. Im, I.-M. Kim, **<U>S. Yun</U>**, and J.-M. Kang, "Memory- and Latency-Constrained Inference of Large Language Models via Adaptive Split Computing," *IEEE Open Journal of the Computer Society*, under revision, 2025. -->
     <!-- - M. Sung, V. Palakonda, S. Im, I.-M. Kim, S. Moon, **<U>S. Yun</U>**, and J.-M. Kang, "Range Asymmetric Numeral Systems-Based Lightweight Intermediate Feature Compression for Split Computing of Deep Neural Networks," *IEEE Open Journal of the Computer Society*, under revision, 2025. -->
-    <!-- - M. Sung, I.-M. Kim, **<U>S. Yun</U>**, and J.-M. Kang, "H2-Cache: A Novel Hierarchical Dual-Stage Cache for High-Performance Acceleration of Generative Diffusion Models," *IEEE Open Journal of the Computer Society*, under revision, 2025. -->
     - J. Park and **<U>S. Yun</U>**, "Differential Privacy for Multiple Antenna Wireless Communication Assisted Federated Learning," *IEEE Transactions on Vehicular Technology*, under revision, 2024.
 
+
 - ### Accepted / To appear
-    - [J27] M. Sung, M.-G. Gong, S.-J. Ham, I.-M. Kim, **<U>S. Yun</U>**, and J.-M. Kang, "A Novel VLM-Guided Diffusion Model for Remote Sensing Image Super-Resolution," *IEEE Geoscience and Remote Sensing Letters*, accepted, 2025.
+    - [J30] J.-M. Kang, **<U>S. Yun</U>**, and I.-M. Kim, "DeepQ-MIMO: A Deep-Learned Quantum MIMO System With Rydberg Atomic Receiver in IoT," *IEEE Internet of Things Journal*, accepted, 2025.
 
-    - [J26] J.-M. Kang, **<U>S. Yun</U>**, and I.-M. Kim, "CaMPASS-Net: A Deep Learning Framework on Capacity Maximization for MIMO Pinching Antenna Systems in IoT," *IEEE Internet of Things Journal*, accepted, 2025.
+    - [J29] J. Jeong and **<U>S. Yun</U>**, "Inter-Satellite Cooperation for Early Preamble Collision Detection in NTN IoT Random Access," *IEEE Transactions on Aerospace and Electronic Systems*, accepted, 2025.
 
-    
+    - [J28] M. Sung, I.-M. Kim, **<U>S. Yun</U>**, and J.-M. Kang, "H2-Cache: A Novel Hierarchical Dual-Stage Cache for High-Performance Acceleration of Generative Diffusion Models," *IEEE Open Journal of the Computer Society*, accepted, 2025.
 
-    
+
 
 - ### Published
+    [J27] J.-M. Kang, **<U>S. Yun</U>**, and I.-M. Kim, "CaMPASS-Net: A Deep Learning Framework on Capacity Maximization for MIMO Pinching Antenna Systems in IoT," *IEEE Internet of Things Journal*, vol. 11, no. 21, Nov. 2025.
+
+    [J26] M. Sung, M.-G. Gong, S.-J. Ham, I.-M. Kim, **<U>S. Yun</U>**, and J.-M. Kang, "A Novel VLM-Guided Diffusion Model for Remote Sensing Image Super-Resolution," *IEEE Geoscience and Remote Sensing Letters*, vol. 22, Sept. 2025.
+
     [J25] M. Sung, V. Palakonda, I.-M. Kim, **<U>S. Yun</U>**, and J.-M. Kang, "DeCo-MeSC: Deep Compression-Based Memory-Constrained Split Computing Framework for Cooperative Inference of Neural Network," *IEEE Transactions on Vehicular Technology*, *IEEE Transactions on Vehicular Technology*, vol. 74, no. 8, pp. 13319-13324, Aug. 2025.
 
     [J24] J.-M. Kang and **<U>S. Yun</U>**, "Worst-Case Robust Training Design for Correlated MIMO Channels in the Presence of Colored Interference," *Mathematics*, vol. 13, no. 13, pp. 1–24, July 2025.
