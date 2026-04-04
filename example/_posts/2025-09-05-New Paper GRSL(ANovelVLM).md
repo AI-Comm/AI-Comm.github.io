@@ -1,7 +1,7 @@
 ---
 layout: page
 title: >
-  Prof. Yun's paper "A Novel VLM-Guided Diffusion Model for Remote Sensing Image Super-Resolution" got accepted to IEEE Geoscience and Remote Sensing Letters (IF 4.4, JCR Q1 Rank 9.5%)!
+  A paper titled "A Novel VLM-Guided Diffusion Model for Remote Sensing Image Super-Resolution" got accepted to IEEE Geoscience and Remote Sensing Letters (IF 4.4, JCR Q1 Rank 9.5%)!
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: >
-  Prof. Yun's paper "Generative Diffusion Model-Based Deep Learning Framework for Remaining Useful Life Prediction" got accepted to IEEE Internet of Things Journal (IF 8.2, JCR Q1 Rank 3.4%)!
+  A paper titled "Generative Diffusion Model-Based Deep Learning Framework for Remaining Useful Life Prediction" got accepted to IEEE Internet of Things Journal (IF 8.2, JCR Q1 Rank 3.4%)!
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >

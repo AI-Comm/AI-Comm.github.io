@@ -1,7 +1,7 @@
 ---
 layout: page
 title: >
-  Prof. Yun's paper "Worst-Case Robust Training Design for Correlated MIMO Channels in the Presence of Colored Interference" got accepted to Mathematics (IF 2.2, JCR Q1 Rank 5.9%)!
+  A paper titled "Worst-Case Robust Training Design for Correlated MIMO Channels in the Presence of Colored Interference" got accepted to Mathematics (IF 2.2, JCR Q1 Rank 5.9%)!
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >

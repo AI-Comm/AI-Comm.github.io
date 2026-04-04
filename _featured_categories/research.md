@@ -12,17 +12,23 @@ sitemap: false
 ## Selected Journal papers
 
 - ### In preparation / Under revision
-    - J. Park and **<U>S. Yun</U>**, "Differential Privacy for Multiple Antenna Wireless Communication Assisted Federated Learning," *IEEE Transactions on Vehicular Technology*, under revision, 2024.
+    - J. Park, J. Lee, J.-M. Kang, and **<U>S. Yun</U>**\*, "DPRIMO-FL: Differentially Private MIMO Over-the-Air Federated Learning," *IEEE Internet of Things Journal*, in preparation, 2026.
 
 
 - ### Accepted / To appear
-    - [J30] J.-M. Kang, **<U>S. Yun</U>**, and I.-M. Kim, "DeepQ-MIMO: A Deep-Learned Quantum MIMO System With Rydberg Atomic Receiver in IoT," *IEEE Internet of Things Journal*, accepted, 2025.
 
+    - [J33] J. Lee, J. Park, and **<U>S. Yun</U>**\*, "Statistical Indistinguishability in Multi-user Covert Communications without Secret Information," *Mathematics*, accepted, 2026.
 
 
 
 
 - ### Published
+    [J32]   S. S. A. Shah, F. Saeed, M. U. Raza, A. Rehman, M. Shaheryar, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang, "PlantCLR: contrastive self-supervised pretraining for generalizable plant disease detection," *Scientific Reports*, vol. 16, pp. 1--16, Mar. 2026.
+
+    [J31]   J.-M. Kang, **<U>S. Yun</U>**\*, and I.-M. Kim, "DeepQ-MIMO: A Deep-Learned Quantum MIMO System With Rydberg Atomic Receiver in IoT," *IEEE Internet of Things Journal*, vol. 13, no. 6, Mar. 2026.
+
+    [J30]   R. Juraev, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang, "Efficient medical image segmentation using RepSegNet lightweight reparameterized neural network," *Scientific Reports*, vol. 16, pp. 1--15, Jan. 2026.
+
     [J29]   J. Jeong and **<U>S. Yun</U>**\*, "Intersatellite Cooperation for Early Preamble Collision Detection in NTN IoT Random Access," *IEEE Transactions on Aerospace and Electronic Systems*, vol. 62, pp. 2151--2165, Feb. 2026.
 
     [J28]   M. Sung, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang, "H2-Cache: A Novel Hierarchical Dual-Stage Cache for High-Performance Acceleration of Generative Diffusion Models," *IEEE Open Journal of the Computer Society*, vol. 7, pp. 69--79, Jan. 2026.
@@ -51,7 +57,7 @@ sitemap: false
 
     [J16]   A. Motamedi, **<U>S. Yun</U>**, Y. Ge, and I.-M. Kim, “Redundancy Management in Federated Learning for Fast Communication,” *IEEE Transactions on Communications*, vol. 71, no. 11, pp. 6332--6347, Nov., 2023.
 
-    [J15]   S.-H. Kang, V. Palakonda, I.-M. Kim, J.-M. Kang, and **<U>S. Yun</U>**, “Enhanced Non-Maximum Suppression for the Detection of Steel Surface Defects,” *Mathematics*, vol. 11, no. 18, pp. 1--14, Sept. 2023.
+    [J15]   S.-H. Kang, V. Palakonda, I.-M. Kim, J.-M. Kang, and **<U>S. Yun</U>**\*, “Enhanced Non-Maximum Suppression for the Detection of Steel Surface Defects,” *Mathematics*, vol. 11, no. 18, pp. 1--14, Sept. 2023.
 
     [J14]   **<U>S. Yun</U>**, W. Choi, and I.-M. Kim, "Cooperative inference of DNNs for delay- and memory-constrained wireless IoT systems," *IEEE Internet of Things Journal*, vol. 9, no. 17, pp. 16113--16127, Sept. 2022.
 

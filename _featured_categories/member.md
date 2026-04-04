@@ -21,6 +21,15 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 ## Current Member
 <hr style="margin: 0em 0; height: 1px; border: none; background-color: rgba(255,255,255,.033);">
 <hr style="margin: -1em 0; height: 1px; border: none; background-color: none;">
+### Jaehan Joo --- 
+![title](/assets/img/JaehanJoo.jpg){: width="200" height="200"}
+
+  - Postdoctoral Fellow (Mar. 2026--)
+  - Ph.D. Pusan National University, 2026. 02.
+  - Research interests: Artificial intelligence
+
+
+
 ### Hyeondeok Cho --- 
 ![title](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/330px-Font_Awesome_5_brands_github.svg.png){: width="200" height="200"}
 
