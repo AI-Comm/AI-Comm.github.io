@@ -16,80 +16,81 @@ sitemap: false
 
 
 - ### Accepted / To appear
-
-    - [J33] J. Lee, J. Park, and **<U>S. Yun</U>**\*, "Statistical Indistinguishability in Multi-user Covert Communications without Secret Information," *Mathematics*, accepted, 2026.
-
-
+    - [J34] V. Palakonda, S. Ghorbanpour, **<U>S. Yun</U>**, I.-M. Kim, J.-M. Kang\*, and S. Moon\*, "A Comprehensive Survey on Symbolic Regression: State-of-the-Art Approaches, Key Applications, Benchmark Evaluations, and Future Research Directions," *Archives of Computational Methods in Engineering*, accepted, 2026.
 
 
 - ### Published
-    [J32]   S. S. A. Shah, F. Saeed, M. U. Raza, A. Rehman, M. Shaheryar, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang, "PlantCLR: contrastive self-supervised pretraining for generalizable plant disease detection," *Scientific Reports*, vol. 16, pp. 1--16, Mar. 2026.
+    [J33] J. Lee, J. Park, and **<U>S. Yun</U>**\*, "Statistical Indistinguishability in Multi-user Covert Communications without Secret Information," *Mathematics*, vol. 14, no. 7, pp. 1--24, Apr. 2026.
 
-    [J31]   J.-M. Kang, **<U>S. Yun</U>**\*, and I.-M. Kim, "DeepQ-MIMO: A Deep-Learned Quantum MIMO System With Rydberg Atomic Receiver in IoT," *IEEE Internet of Things Journal*, vol. 13, no. 6, Mar. 2026.
+    [J32]   S. S. A. Shah, F. Saeed, M. U. Raza, A. Rehman, M. Shaheryar, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang\*, "PlantCLR: contrastive self-supervised pretraining for generalizable plant disease detection," *Scientific Reports*, vol. 16, pp. 1--16, Mar. 2026.
 
-    [J30]   R. Juraev, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang, "Efficient medical image segmentation using RepSegNet lightweight reparameterized neural network," *Scientific Reports*, vol. 16, pp. 1--15, Jan. 2026.
+    [J31]   J.-M. Kang, **<U>S. Yun</U>**\*, and I.-M. Kim\*, "DeepQ-MIMO: A Deep-Learned Quantum MIMO System With Rydberg Atomic Receiver in IoT," *IEEE Internet of Things Journal*, vol. 13, no. 6, Mar. 2026.
+
+    [J30]   R. Juraev, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang\*, "Efficient medical image segmentation using RepSegNet lightweight reparameterized neural network," *Scientific Reports*, vol. 16, pp. 1--15, Jan. 2026.
 
     [J29]   J. Jeong and **<U>S. Yun</U>**\*, "Intersatellite Cooperation for Early Preamble Collision Detection in NTN IoT Random Access," *IEEE Transactions on Aerospace and Electronic Systems*, vol. 62, pp. 2151--2165, Feb. 2026.
 
-    [J28]   M. Sung, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang, "H2-Cache: A Novel Hierarchical Dual-Stage Cache for High-Performance Acceleration of Generative Diffusion Models," *IEEE Open Journal of the Computer Society*, vol. 7, pp. 69--79, Jan. 2026.
-    
-    [J27]   J.-M. Kang, **<U>S. Yun</U>**\*, and I.-M. Kim, "CaMPASS-Net: A Deep Learning Framework on Capacity Maximization for MIMO Pinching Antenna Systems in IoT," *IEEE Internet of Things Journal*, vol. 11, no. 21, pp. 45917--45920, Nov. 2025.
+    [J28]   M. Sung, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang\*, "H2-Cache: A Novel Hierarchical Dual-Stage Cache for High-Performance Acceleration of Generative Diffusion Models," *IEEE Open Journal of the Computer Society*, vol. 7, pp. 69--79, Jan. 2026.
 
-    [J26]   M. Sung, M.-G. Gong, S.-J. Ham, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang, "A Novel VLM-Guided Diffusion Model for Remote Sensing Image Super-Resolution," *IEEE Geoscience and Remote Sensing Letters*, vol. 22, pp. 7509505, Sept. 2025.
+    [J27]   J.-M. Kang, **<U>S. Yun</U>**\*, and I.-M. Kim\*, "CaMPASS-Net: A Deep Learning Framework on Capacity Maximization for MIMO Pinching Antenna Systems in IoT," *IEEE Internet of Things Journal*, vol. 11, no. 21, pp. 45917--45920, Nov. 2025.
 
-    [J25]   M. Sung, V. Palakonda, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang, "DeCo-MeSC: Deep Compression-Based Memory-Constrained Split Computing Framework for Cooperative Inference of Neural Network," *IEEE Transactions on Vehicular Technology*, *IEEE Transactions on Vehicular Technology*, vol. 74, no. 8, pp. 13319--13324, Aug. 2025.
+    [J26]   M. Sung, M.-G. Gong, S.-J. Ham, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang\*, "A Novel VLM-Guided Diffusion Model for Remote Sensing Image Super-Resolution," *IEEE Geoscience and Remote Sensing Letters*, vol. 22, pp. 7509505, Sept. 2025.
+
+    [J25]   M. Sung, V. Palakonda, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang\*, "DeCo-MeSC: Deep Compression-Based Memory-Constrained Split Computing Framework for Cooperative Inference of Neural Network," *IEEE Transactions on Vehicular Technology*, vol. 74, no. 8, pp. 13319--13324, Aug. 2025.
 
     [J24]   J.-M. Kang and **<U>S. Yun</U>**\*, "Worst-Case Robust Training Design for Correlated MIMO Channels in the Presence of Colored Interference," *Mathematics*, vol. 13, no. 13, pp. 1--24, July 2025.
 
-    [J23]   F. Sultonov, **<U>S. Yun</U>**\*, J.-M. Kang, "Corrections to "DASK-Net: A Lightweight Dual Attention Selective Kernel Network for Efficient Dense Prediction in Remote Sensing Imagery,"" *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1--2, June 2025.
+    [J23]   F. Sultonov, **<U>S. Yun</U>**\*, J.-M. Kang\*, "Corrections to "DASK-Net: A Lightweight Dual Attention Selective Kernel Network for Efficient Dense Prediction in Remote Sensing Imagery,"" *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1--2, June 2025.
 
-    [J22]   S. Ha, M. Sung, F. Saeed, **<U>S. Yun</U>**, I.-M. Kim, and J.-M. Kang, "Generative Diffusion Model-Based Deep Learning Framework for Remaining Useful Life Prediction," *IEEE Internet of Things Journal*, vol. 12, no. 11, pp. 18431--18434, June 2025.
+    [J22]   S. Ha, M. Sung, F. Saeed, **<U>S. Yun</U>**, I.-M. Kim, and J.-M. Kang\*, "Generative Diffusion Model-Based Deep Learning Framework for Remaining Useful Life Prediction," *IEEE Internet of Things Journal*, vol. 12, no. 11, pp. 18431--18434, June 2025.
 
-    [J21]   F. Sultonov, **<U>S. Yun</U>**\*, J.-M. Kang, "DASK-Net: A Lightweight Dual Attention Selective Kernel Network for Efficient Dense Prediction in Remote Sensing Imagery," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1--16, May 2025.
+    [J21]   F. Sultonov, **<U>S. Yun</U>**\*, J.-M. Kang\*, "DASK-Net: A Lightweight Dual Attention Selective Kernel Network for Efficient Dense Prediction in Remote Sensing Imagery," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1--16, May 2025.
 
-    [J20]   C.-W. Park, V. Palakonda, **<U>S. Yun</U>**, I.-M. Kim, and J.-M. Kang, "OCR-Diff: A Two-Stage Deep Learning Framework for Optical Character Recognition Using Diffusion Model in Industrial Internet-of-Things," *IEEE Internet of Things Journal*, vol. 11, no. 15, pp. 25997--26000, Aug. 2024.
+    [J20]   C.-W. Park, V. Palakonda, **<U>S. Yun</U>**, I.-M. Kim, and J.-M. Kang\*, "OCR-Diff: A Two-Stage Deep Learning Framework for Optical Character Recognition Using Diffusion Model in Industrial Internet-of-Things," *IEEE Internet of Things Journal*, vol. 11, no. 15, pp. 25997--26000, Aug. 2024.
 
-    [J19]   J. Park, **<U>S. Yun</U>**, J. Ha, “Secure power control for downlink cell-free massive MIMO with passive eavesdroppers,” *IEEE Transactions on Vehicular Technology*, vol. 73, no. 6, pp. 9038--9043, June 2024.
+    [J19]   J. Park, **<U>S. Yun</U>**, J. Ha\*, "Secure power control for downlink cell-free massive MIMO with passive eavesdroppers,” *IEEE Transactions on Vehicular Technology*, vol. 73, no. 6, pp. 9038--9043, June 2024.
 
-    [J18]   J. Park, **<U>S. Yun</U>**, J. Ha, “Downlink cell-free massive MIMO with pilot contamination,” *IEEE Transactions on Vehicular Technology*, vol. 73, no. 1, pp. 1412--1417, Jan. 2024.
+    [J18]   J. Park, **<U>S. Yun</U>**, J. Ha\*, "Downlink cell-free massive MIMO with pilot contamination,” *IEEE Transactions on Vehicular Technology*, vol. 73, no. 1, pp. 1412--1417, Jan. 2024.
 
-    [J17]   Y. Shin, V. Palakonda, **<U>S. Yun</U>**, I.-M. Kim, S.-G. Kim, S.-M. Park, and J.-M. Kang, “RandMixAugment: A Novel Unified Technique for Region-and Image-Level Data Augmentations,” *IEEE Access*, vol. 12, pp. 8187--8197, Jan. 2023.
+    [J17]   Y. Shin, V. Palakonda, **<U>S. Yun</U>**, I.-M. Kim, S.-G. Kim, S.-M. Park, and J.-M. Kang\*, "RandMixAugment: A Novel Unified Technique for Region-and Image-Level Data Augmentations,” *IEEE Access*, vol. 12, pp. 8187--8197, Jan. 2023.
 
-    [J16]   A. Motamedi, **<U>S. Yun</U>**, Y. Ge, and I.-M. Kim, “Redundancy Management in Federated Learning for Fast Communication,” *IEEE Transactions on Communications*, vol. 71, no. 11, pp. 6332--6347, Nov., 2023.
+    [J16]   A. Motamedi, **<U>S. Yun</U>**, Y. Ge, and I.-M. Kim\*, "Redundancy Management in Federated Learning for Fast Communication,” *IEEE Transactions on Communications*, vol. 71, no. 11, pp. 6332--6347, Nov. 2023.
 
-    [J15]   S.-H. Kang, V. Palakonda, I.-M. Kim, J.-M. Kang, and **<U>S. Yun</U>**\*, “Enhanced Non-Maximum Suppression for the Detection of Steel Surface Defects,” *Mathematics*, vol. 11, no. 18, pp. 1--14, Sept. 2023.
+    [J15]   S.-H. Kang, V. Palakonda, I.-M. Kim, J.-M. Kang, and **<U>S. Yun</U>**\*, "Enhanced Non-Maximum Suppression for the Detection of Steel Surface Defects,” *Mathematics*, vol. 11, no. 18, pp. 1--14, Sept. 2023.
 
-    [J14]   **<U>S. Yun</U>**, W. Choi, and I.-M. Kim, "Cooperative inference of DNNs for delay- and memory-constrained wireless IoT systems," *IEEE Internet of Things Journal*, vol. 9, no. 17, pp. 16113--16127, Sept. 2022.
+    [J14]   **<U>S. Yun</U>**, W. Choi, and I.-M. Kim\*, "Cooperative inference of DNNs for delay- and memory-constrained wireless IoT systems," *IEEE Internet of Things Journal*, vol. 9, no. 17, pp. 16113--16127, Sept. 2022.
 
-    [J13]   S. Li, F. Sultonov, J. Tursunboev, **<U>S. Yun</U>**, and J.-M. Kang, “Ghostformer: A GhostNet-Based Two-Stage Transformer for Small Object Detection,” *Sensors*, vol. 22, no. 18, pp. 1--9, Sept. 2022.
+    [J13]   S. Li, F. Sultonov, J. Tursunboev, **<U>S. Yun</U>**, and J.-M. Kang\*, "Ghostformer: A GhostNet-Based Two-Stage Transformer for Small Object Detection,” *Sensors*, vol. 22, no. 18, pp. 1--9, Sept. 2022.
 
-    [J12]   H. A. Shah, F. Saeed, **<U>S. Yun</U>**, A Paul, and J.-M. Kang, “A robust approach for brain tumor detection in magnetic resonance images using finetuned efficientnet,” *IEEE Access*, vol. 10, pp. 65426--65438, June 2022.
+    [J12]   H. A. Shah, F. Saeed, **<U>S. Yun</U>**, A Paul, and J.-M. Kang\*, "A robust approach for brain tumor detection in magnetic resonance images using finetuned efficientnet,” *IEEE Access*, vol. 10, pp. 65426--65438, June 2022.
 
-    [J11]   J. Lee, **<U>S. Yun</U>**, I.-M. Kim, and J. Ha, “Deep neural network-based precoder for fairness aware secure NOMA scheme,” *IEEE Transactions on Vehicular Technology*, vol. 71, no. 5, pp. 5615--5620, May 2022.
+    [J11]   J. Lee, **<U>S. Yun</U>**, I.-M. Kim, and J. Ha\*, "Deep neural network-based precoder for fairness aware secure NOMA scheme,” *IEEE Transactions on Vehicular Technology*, vol. 71, no. 5, pp. 5615--5620, May 2022.
 
-    [J10]   J.-M. Kang, **<U>S. Yun</U>**, I.-M. Kim, and H. Jung, “MSE-based joint transceiver and passive beamforming design for intelligent reflecting surface-aided MIMO systems,” *IEEE Wireless Communications Letters*, vol. 11, no. 3, pp. 622--626, March 2022.
+    [J10]   J.-M. Kang, **<U>S. Yun</U>**, I.-M. Kim, and H. Jung\*, "MSE-based joint transceiver and passive beamforming design for intelligent reflecting surface-aided MIMO systems,” *IEEE Wireless Communications Letters*, vol. 11, no. 3, pp. 622--626, March 2022.
 
-    [J9]    J. M. Nilsen, J.-H. Park, **<U>S. Yun</U>**, J.-M. Kang, and H. Jung, “Competing miners: A synergetic solution for combining blockchain and edge computing in unmanned aerial vehicle networks,” *Applied Science*, vol. 12, no. 5, pp. 1--18, March 2022.
+    [J9]    J. M. Nilsen, J.-H. Park, **<U>S. Yun</U>**, J.-M. Kang\*, and H. Jung\*, "Competing miners: A synergetic solution for combining blockchain and edge computing in unmanned aerial vehicle networks,” *Applied Science*, vol. 12, no. 5, pp. 1--18, March 2022.
 
-    [J8]    F. Sultonov, J.-H. Park, **<U>S. Yun</U>**, D.-W. Lim, and J.-M. Kang, “Mixer U-Net: An improved automatic road extraction from UAV imagery,” *Applied Science*, vol. 12, no. 4, pp. 1--16, Feb. 2022.
+    [J8]    F. Sultonov, J.-H. Park, **<U>S. Yun</U>**, D.-W. Lim, and J.-M. Kang\*, "Mixer U-Net: An improved automatic road extraction from UAV imagery,” *Applied Science*, vol. 12, no. 4, pp. 1--16, Feb. 2022.
 
-    [J7]    **<U>S. Yun</U>**, J.-M. Kang, J. Ha, S. Lee, D.-W. Ryu, J. Kwon, and I.-M. Kim, “Deep learning-based Ground vibration monitoring: Reinforcement learning and RNN-CNN approach,” *IEEE Geoscience and Remote Sensing Letters*, vol. 19, pp. 7502905, Jan. 2022.
+    [J7]    **<U>S. Yun</U>**, J.-M. Kang, J. Ha, S. Lee, D.-W. Ryu, J. Kwon, and I.-M. Kim\*, "Deep learning-based Ground vibration monitoring: Reinforcement learning and RNN-CNN approach,” *IEEE Geoscience and Remote Sensing Letters*, vol. 19, pp. 7502905, Jan. 2022.
 
-    [J6]    **<U>S. Yun</U>**, J.-M. Kang, and I.-M. Kim, “Cooperative inference of DNNs over noisy wireless channels,” *IEEE Transactions on Vehicular Technology*, vol. 70, no. 8, pp. 8298--8303, Aug. 2021.
+    [J6]    **<U>S. Yun</U>**, J.-M. Kang, and I.-M. Kim\*, "Cooperative inference of DNNs over noisy wireless channels,” *IEEE Transactions on Vehicular Technology*, vol. 70, no. 8, pp. 8298--8303, Aug. 2021.
 
-    [J5]    M. K. Nori, **<U>S. Yun</U>**, and I.-M. Kim, “Fast federated learning by balancing communication trade-offs,” *IEEE Transactions on Communications*, vol. 69, no. 8, pp. 5168--5182, Aug. 2021.
+    [J5]    M. K. Nori, **<U>S. Yun</U>**, and I.-M. Kim\*, "Fast federated learning by balancing communication trade-offs,” *IEEE Transactions on Communications*, vol. 69, no. 8, pp. 5168--5182, Aug. 2021.
 
-    [J4]    **<U>S. Yun</U>**, J.-M. Kang, I.-M. Kim, and J. Ha "Deep artificial noise: Deep learning-based precoding optimization for artificial noise scheme," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 3, pp. 3465--3469, March 2020.
+    [J4]    **<U>S. Yun</U>**, J.-M. Kang, I.-M. Kim, and J. Ha\*, "Deep artificial noise: Deep learning-based precoding optimization for artificial noise scheme," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 3, pp. 3465--3469, March 2020.
 
-    [J3]    J. Park, **<U>S. Yun</U>**, I.-M. Kim, and J. Ha, "Secure communications with a full-duplex relay network under residual self-interference," *IEEE Communications Letters*, vol. 24, no. 3, pp. 496--500, Mar. 2020.
+    [J3]    J. Park, **<U>S. Yun</U>**, I.-M. Kim, and J. Ha\*, "Secure communications with a full-duplex relay network under residual self-interference," *IEEE Communications Letters*, vol. 24, no. 3, pp. 496--500, Mar. 2020.
 
-    [J2]    **<U>S. Yun</U>**, I.-M. Kim, and J. Ha "Artificial noise scheme for correlated MISO wiretap channels," *IEEE Transactions on Vehicular Technology*, vol. 68, no. 9, pp. 9323--9327, Sept. 2019.
+    [J2]    **<U>S. Yun</U>**, I.-M. Kim, and J. Ha\*, "Artificial noise scheme for correlated MISO wiretap channels," *IEEE Transactions on Vehicular Technology*, vol. 68, no. 9, pp. 9323--9327, Sept. 2019.
 
-    [J1]    **<U>S. Yun</U>**, S. Im, I.-M. Kim, and J. Ha, "On the secrecy rate and optimal power allocation for artificial noise assisted MIMOME channels," *IEEE Transactions on Vehicular Technology*, vol.67, no. 4, pp. 3098--3113, April 2018.
+    [J1]    **<U>S. Yun</U>**, S. Im, I.-M. Kim, and J. Ha\*, "On the secrecy rate and optimal power allocation for artificial noise assisted MIMOME channels," *IEEE Transactions on Vehicular Technology*, vol.67, no. 4, pp. 3098--3113, April 2018.
 
 ## International Conference papers
 
 - ### Published
+
+    [C13] F. Saeed, D. Park, S. S. A. Shah, Junbeom Lee, Abdul Rehman, Jae-Mo Kang, Il-Min Kim, Sangseok Yun, Sunghwan Moon, "Secure and Privacy-Preserving Intrusion Detection in Wireless Sensor Networks via Perturbation Adversarial Training," in *Proc. the 41st ACM/SIGAPP Symposium on Applied Computing*, Thessaloniki, Greece · March 2026.
 
     [C12]	M. Ko, **<U>S. Yun</U>**, J. Park, and J. Ha, "Artificial-noise-aided Secure Beamforming in Full-duplex Wireless-powered Relay," in *Proc. IEEE Wireless Communications and Networking Conference (WCNC)*, Barcelona, Spain, April 2018.
 
