@@ -16,10 +16,16 @@ sitemap: false
 
 
 - ### Accepted / To appear
-    - [J34] V. Palakonda, S. Ghorbanpour, **<U>S. Yun</U>**, I.-M. Kim, J.-M. Kang\*, and S. Moon\*, "A Comprehensive Survey on Symbolic Regression: State-of-the-Art Approaches, Key Applications, Benchmark Evaluations, and Future Research Directions," *Archives of Computational Methods in Engineering*, accepted, 2026.
+    - [J37] F. Sultonov; M.-G. Gong; S.-J. Park; I.-M. Kim; J. Kim; **<U>S. Yun</U>**\*, J.-M. Kang\*, "LiEAF-Net: A Lightweight Multi-Scale Elevation-Aware Fusion Network for Multimodal Semantic Segmentation of High-Resolution Remote Sensing Imagery," *IEEE Geoscience and Remote Sensing*, accpted, 2026.
+
+    - [J36] V. Palakonda, S. Ghorbanpour, **<U>S. Yun</U>**, I.-M. Kim, J.-M. Kang\*, and S. Moon\*, "A Comprehensive Survey on Symbolic Regression: State-of-the-Art Approaches, Key Applications, Benchmark Evaluations, and Future Research Directions," *Archives of Computational Methods in Engineering*, accepted, 2026.
 
 
 - ### Published
+    [J35] H.-U. Lee; J. Lee; M. Park; K. Kim; J. Kim; I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang\*, "Infer-GANomaly: A Generative AI Framework for Seismic Event Discrimination via Physics-Informed Hybrid Attention," *IEEE Geoscience and Remote Sensing*, vol. 23, pp. 7506605, Aug. 2026.
+
+    [J34] S. Park, M.-G. Gong, S.-J. Park, **<U>S. Yun</U>**, I.-M. Kim, J. Kim, and J.-M. Kang\*, "Maskless Selective Object Removal via a Dual-Pipeline Framework with SAM–SDXL and LaMa," *AI*, vol. 7, no. 8, pp. 1--17, July 2026.
+
     [J33] J. Lee, J. Park, and **<U>S. Yun</U>**\*, "Statistical Indistinguishability in Multi-user Covert Communications without Secret Information," *Mathematics*, vol. 14, no. 7, pp. 1--24, Apr. 2026.
 
     [J32]   S. S. A. Shah, F. Saeed, M. U. Raza, A. Rehman, M. Shaheryar, I.-M. Kim, **<U>S. Yun</U>**\*, and J.-M. Kang\*, "PlantCLR: contrastive self-supervised pretraining for generalizable plant disease detection," *Scientific Reports*, vol. 16, pp. 1--16, Mar. 2026.

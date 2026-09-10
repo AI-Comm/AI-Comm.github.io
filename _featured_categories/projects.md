@@ -17,7 +17,9 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 
 
 ## Ongoing projects
-* "Secure ICT: Privacy-Preserving Distributed AI Technologies," Outstanding Young Scientist Grants (우수신진연구), National Research Foundation of Korea (NRF) --- 2025.03 ~ 2028.02
+* "Development and Demonstration of Digital Twin-Based Physical AI Technology for Integrated Autonomous Process–Logistics Control of Robotic Assembly, Machining, Inspection, and Intralogistics in Global Automotive Parts Manufacturing," Global Technology Industrial Cooperation Center (글로벌산업기술협력센터), KRW 2,000 million per year, Korea Institute for Advancement of Technology (KIAT) --- 2026.08 ~ 2031.07
+
+* "Secure ICT: Privacy-Preserving Distributed AI Technologies," Outstanding Young Scientist Grants (우수신진연구), KRW 100 million per year, National Research Foundation of Korea (NRF) --- 2025.03 ~ 2028.02
 <!-- * [Undergraduate interns]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file. -->
 <!-- {:.related-posts.faded} -->
 

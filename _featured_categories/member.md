@@ -29,7 +29,6 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
   - Research interests: Artificial intelligence
 
 
-
 ### Hyeondeok Cho --- 
 ![title](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/330px-Font_Awesome_5_brands_github.svg.png){: width="200" height="200"}
 
@@ -44,6 +43,13 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 ![title](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/330px-Font_Awesome_5_brands_github.svg.png){: width="200" height="200"}
   - Integrated B.S./M.S. Course (Mar. 2025--)
   - Research interests: Private machine learning
+
+
+### Minhyeong Lim ---
+![title](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/330px-Font_Awesome_5_brands_github.svg.png){: width="200" height="200"}
+  - M.S. Course (Sept. 2026--)
+  - Research interests: Embedded AI system
+
 
 <hr style="margin: 0em 0; height: 1px; border: none; background-color: none;">
 
